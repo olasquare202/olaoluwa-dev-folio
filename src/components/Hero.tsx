@@ -15,7 +15,7 @@ export const Hero = () => {
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
               <span className="block text-foreground">Olaoluwa Esan</span>
-              <span className="block mt-2 gradient-primary bg-clip-text text-transparent">
+              <span className="block mt-2 text-primary">
                 .NET Software Engineer
               </span>
             </h1>
