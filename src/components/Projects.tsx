@@ -9,13 +9,15 @@ export const Projects = () => {
       title: "Hotel Listing Web API",
       description: "Enterprise-level hotel listing API with JWT authentication, global error handling, rate limiting, API versioning, pagination, and comprehensive caching. Implements Unit of Work and Generic Repository patterns.",
       tech: ["C#", "ASP.NET Core 6", "Entity Framework", "JWT", "Swagger"],
-      github: "https://github.com/olasquare202/HotelListing.API.NET6",
+      // github: "https://github.com/olasquare202/HotelListing.API.NET6",
+      github: "https://github.com/olasquare202/HotelListingAPI",
       highlights: ["JWT Bearer Auth", "Rate Limiting", "API Versioning", "Unit of Work Pattern"]
     },
     {
       title: "E-Medicine Store API",
       description: "Full-featured e-commerce backend for online medicine store with admin panel. Admins can manage inventory, track orders, and approve purchases. Complete CRUD operations with comprehensive API documentation.",
       tech: ["C#", ".NET Core", "Entity Framework", "Swagger", "SQL Server"],
+      // github: "https://github.com/olasquare202/EcommerceMedicineStoreBack-End",
       github: "https://github.com/olasquare202/EcommerceMedicineStoreBack-End",
       highlights: ["Admin Dashboard", "Order Management", "Inventory System", "API Documentation"]
     },
@@ -23,14 +25,16 @@ export const Projects = () => {
       title: "Book Keeping Web App",
       description: "Full-stack MVC application for catalog management with complete CRUD functionality. Features responsive Razor pages and deployed on Microsoft Azure for production use.",
       tech: ["ASP.NET Core MVC", "Razor", "Bootstrap", "Sass", "Azure"],
-      link: "https://booklisting20221212214927.azurewebsites.net/",
+      // link: "https://booklisting20221212214927.azurewebsites.net/",
+      link: "https://github.com/olasquare202/BookKeepingWebAPI",
       highlights: ["Azure Deployment", "Responsive Design", "Full CRUD", "MVC Architecture"]
     },
     {
       title: "Multipurpose Business Website",
       description: "Modern, responsive full-stack website showcasing products and services. Features integrated contact forms, social media links, video content, and interactive FAQ carousel.",
       tech: ["JavaScript", "Bootstrap", "Sass", "HTML/CSS"],
-      link: "http://preciousjn.epizy.com/",
+      // link: "http://preciousjn.epizy.com/",
+      link: "https://olasquare202.github.io/Boostrap-V5-Project-with-SASS/",
       highlights: ["Responsive Design", "Contact Integration", "Video Content", "Interactive UI"]
     }
   ];

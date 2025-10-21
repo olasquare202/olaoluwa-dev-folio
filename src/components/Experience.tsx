@@ -8,7 +8,7 @@ export const Experience = () => {
       company: "ClearlineHMO",
       location: "Lagos",
       role: "Software Engineer",
-      period: "Feb 2023 - Present",
+      period: "Feb 2023 - 2025",
       achievements: [
         "Developed NHIS Portal solution from scratch with comprehensive functionalities",
         "Created Microsoft Power App to consume APIs, meeting business demands efficiently",
