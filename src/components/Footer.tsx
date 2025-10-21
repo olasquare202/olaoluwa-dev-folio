@@ -5,7 +5,7 @@ export const Footer = () => {
 				<div className="text-center text-muted-foreground">
 					<p>
 						© {new Date().getFullYear()} Olaoluwa Esan. Built with React,
-						TypeScript, and Tailwind CSS.
+						TypeScript, and Tailwind CS.
 					</p>
 				</div>
 			</div>
